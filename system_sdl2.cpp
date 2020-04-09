@@ -456,10 +456,10 @@ void System_SDL2::updateScreen(bool drawWidescreen) {
 		s.w = Video::W * _scalerMultiplier;
 		s.h = Video::H * _scalerMultiplier;		
 		SDL_Rect r;
-		r.x = ((_screenW - Video::W) >> 1) * _scalerMultiplier;
-		r.y = ((_screenH - Video::H) >> 1) * _scalerMultiplier;		
-		r.w = Video::W * _scalerMultiplier;
-		r.h = Video::H * _scalerMultiplier;
+		r.x = 0;
+		r.y = 0;		
+		r.w = RG350_W;
+		r.h = RG350_H;
 		if (_backgroundTexture) {			
 			SDL_RenderCopy(_renderer, _backgroundTexture, &s, &r);
 		}		
