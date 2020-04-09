@@ -17,6 +17,5 @@ and run the script make_opk.sh to generate the opk file for the RG350.
 
 Improvements
 - Force Feedback
-- Image is now centered
 - Fullscreen
   
