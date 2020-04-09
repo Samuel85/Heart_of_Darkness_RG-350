@@ -1,0 +1,6 @@
+[submodule "3p/libxbr-standalone"]
+	path = 3p/libxbr-standalone
+	url = https://github.com/Treeki/libxbr-standalone
+[submodule "3p/inih"]
+	path = 3p/inih
+	url = https://github.com/benhoyt/inih
