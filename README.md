@@ -2,9 +2,9 @@
 
 Based on the original source code by Gregory Montoir (http://cyxdown.free.fr/hode/)
 
-To compile the program just type "make -f Makefile.rg350".
+The Opk file is locate inside of the build directory.
 
-After compiling the program copy the following files to the ftp://10.1.1.2/usr/local/home/hode/ directory:
+Before to play copy the following game files to ftp://10.1.1.2/usr/local/home/hode/ directory:
 - hod.paf (hod_demo.paf, hod_demo2.paf)
 - setup.dat,
 - *_hod.lvl,
