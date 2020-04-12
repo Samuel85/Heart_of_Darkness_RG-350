@@ -9,10 +9,10 @@ Before to play copy the following game files to ftp://10.1.1.2/usr/local/home/ho
 - setup.dat,
 - *_hod.lvl,
 - *_hod.sss,
-- *_hod.mst,
+- *_hod.mst .
 
 
-Improvements
+Improvements:
 - Force Feedback
 - Fullscreen
   
