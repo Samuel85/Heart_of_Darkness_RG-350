@@ -1,9 +1,11 @@
 # Heart_of_Darkness_RG-350
 
+## Info
 Based on the original source code by Gregory Montoir (http://cyxdown.free.fr/hode/)
 
 The Opk file is locate inside of the build directory.
 
+## Requirements
 Before to play copy the following game files to ftp://10.1.1.2/usr/local/home/hode/ :
 - hod.paf (hod_demo.paf, hod_demo2.paf),
 - setup.dat,
@@ -11,8 +13,7 @@ Before to play copy the following game files to ftp://10.1.1.2/usr/local/home/ho
 - *_hod.sss,
 - *_hod.mst .
 
-
-Improvements:
+## Improvements
 - Force Feedback
 - Fullscreen
   
