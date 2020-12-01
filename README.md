@@ -18,5 +18,5 @@ Before to play copy the following game files to ftp://10.1.1.2/usr/local/home/ho
 - Force Feedback.
 - Fullscreen.
   
-## RG350
+## Note for the RG350 users
 The Opk file is locate inside of the build directory.
