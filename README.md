@@ -1,6 +1,6 @@
 # Heart_of_Darkness_RG-350
 
-## Info
+## About this Project
 
 Linux and RG350 implementation of the classic PS1 game Heart of Darkness.
 
